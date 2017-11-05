@@ -1,0 +1,47 @@
+﻿  throw new HttpResponseException(HttpStatusCode.NotFound)
+
+
+  1 彻底修改了HttpNotFoundAwareDefaultHttpControllerSelector  不在通过路由返回
+  HttpNotFoundAwareDefaultHttpControllerSelector改名为ApiNotFoundSelector
+
+  
+config.Services.Replace(typeof(IHttpControllerSelector), new ControllerNotFoundSelector(config));
+config.Services.Replace(typeof(IHttpActionSelector), new ActionNotFoundSelector());
+
+  2 删除ErrorController服务
+
+
+  NotFoundFilterAttribute改名为ExceptionFilterAttribute
+
+  处理异常  Content-Type:text/html; charset=utf-8  
+  415 Unsupported Media Type
+
+
+  如果是缓存的返回 使用1200 304?  //888
+  c# webapi 缓存
+
+
+  8 种提升 ASP.NET Web API 性能的方法
+  http://www.oschina.net/translate/8-ways-improve-asp-net-web-api-performance/
+
+
+  webapi 
+  头信息的清除
+  Cache-Control:no-cache
+  Content-Length:21
+  Content-Type:text/plain; charset=utf-8
+  Date:Sun, 09 Jul 2017 11:15:30 GMT
+  Expires:-1
+  Pragma:no-cache
+  Server:Microsoft-IIS/10.0
+  X-AspNet-Version:4.0.30319
+  X-Powered-By:ASP.NET
+  X-SourceFiles:=?UTF-8?B?RTpcc3JjXE90aGVyXEFwaUJhc2VcVGVzdA==?=
+
+
+
+
+
+
+
+  http://blog.developers.ba/simple-way-implement-caching-asp-net-web-api/

@@ -1,0 +1,16 @@
+E:\cloudcheck\trunk\src\Other\ApiBase\Test\bin\Test.dll.config
+E:\cloudcheck\trunk\src\Other\ApiBase\Test\bin\Test.dll
+E:\cloudcheck\trunk\src\Other\ApiBase\Test\bin\Test.pdb
+E:\cloudcheck\trunk\src\Other\ApiBase\Test\bin\ApiBase.dll
+E:\cloudcheck\trunk\src\Other\ApiBase\Test\bin\CEntity.dll
+E:\cloudcheck\trunk\src\Other\ApiBase\Test\bin\Newtonsoft.Json.dll
+E:\cloudcheck\trunk\src\Other\ApiBase\Test\bin\System.Net.Http.Formatting.dll
+E:\cloudcheck\trunk\src\Other\ApiBase\Test\bin\System.Web.Http.dll
+E:\cloudcheck\trunk\src\Other\ApiBase\Test\bin\System.Web.Http.resources.dll
+E:\cloudcheck\trunk\src\Other\ApiBase\Test\bin\System.Web.Http.WebHost.dll
+E:\cloudcheck\trunk\src\Other\ApiBase\Test\bin\ApiBase.pdb
+E:\cloudcheck\trunk\src\Other\ApiBase\Test\bin\CEntity.xml
+E:\cloudcheck\trunk\src\Other\ApiBase\Test\bin\Newtonsoft.Json.xml
+E:\cloudcheck\trunk\src\Other\ApiBase\Test\obj\Release\Test.csprojResolveAssemblyReference.cache
+E:\cloudcheck\trunk\src\Other\ApiBase\Test\obj\Release\Test.dll
+E:\cloudcheck\trunk\src\Other\ApiBase\Test\obj\Release\Test.pdb

@@ -1,0 +1,11 @@
+E:\cloudcheck\trunk\src\Other\ApiBase\ApiBase\bin\Release\ApiBase.dll
+E:\cloudcheck\trunk\src\Other\ApiBase\ApiBase\bin\Release\ApiBase.pdb
+E:\cloudcheck\trunk\src\Other\ApiBase\ApiBase\bin\Release\CEntity.dll
+E:\cloudcheck\trunk\src\Other\ApiBase\ApiBase\bin\Release\Newtonsoft.Json.dll
+E:\cloudcheck\trunk\src\Other\ApiBase\ApiBase\bin\Release\System.Net.Http.Formatting.dll
+E:\cloudcheck\trunk\src\Other\ApiBase\ApiBase\bin\Release\System.Web.Http.dll
+E:\cloudcheck\trunk\src\Other\ApiBase\ApiBase\bin\Release\CEntity.xml
+E:\cloudcheck\trunk\src\Other\ApiBase\ApiBase\bin\Release\Newtonsoft.Json.xml
+E:\cloudcheck\trunk\src\Other\ApiBase\ApiBase\obj\Release\ApiBase.csprojResolveAssemblyReference.cache
+E:\cloudcheck\trunk\src\Other\ApiBase\ApiBase\obj\Release\ApiBase.dll
+E:\cloudcheck\trunk\src\Other\ApiBase\ApiBase\obj\Release\ApiBase.pdb
